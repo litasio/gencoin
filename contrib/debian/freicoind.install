@@ -1,0 +1,2 @@
+debian/bin/gencoind usr/bin
+src/gencoind usr/lib/gencoin

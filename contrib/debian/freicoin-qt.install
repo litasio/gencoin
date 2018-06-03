@@ -1,0 +1,5 @@
+gencoin-qt usr/bin
+share/pixmaps/gencoin32.xpm usr/share/pixmaps
+share/pixmaps/gencoin80.xpm usr/share/pixmaps
+debian/gencoin-qt.desktop usr/share/applications
+debian/gencoin-qt.protocol usr/share/kde4/services/
